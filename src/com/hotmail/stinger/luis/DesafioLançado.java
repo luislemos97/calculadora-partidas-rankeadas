@@ -2,8 +2,6 @@ package com.hotmail.stinger.luis;
 
 public class DesafioLançado {
 
-    public class CalculadoraDePartidasRankeadas {
-
         public static void main(String[] args) {
             // Definindo o número de vitórias e derrotas do jogador
             int vitorias = 75; // Exemplo de vitórias
@@ -45,4 +43,4 @@ public class DesafioLançado {
             return null;
         }
     }
-}
+
